@@ -1,5 +1,5 @@
-# PLM-Programming_ClassWorks
-Some classroom outputs required by my college professors in PLM.
+# PLM-Programming Logic and Design Class Works
+Some of my 2021 Outputs for the course: Programming Logic and Design (CPE 0112.1)
+Instructor: Kaycee R. Mendez
 
-#My Programming Subjects in PLM
-1. Programming Logic and Design (CPE 0112.1)
+I hope her future students find this lol
